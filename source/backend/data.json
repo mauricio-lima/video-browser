@@ -1,0 +1,9 @@
+{
+    "title"  : "Video Collection",
+    "videos" : [
+        {
+            "title" : "teste",
+            "url"   : ""
+        }
+    ]
+}
